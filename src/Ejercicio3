@@ -1,4 +1,5 @@
-#! /bin/bash
+nano 01-hola-mundo.sh
+#! /bin/bash 
 echo "número de parámetros = $#"
 # si número de parámetros menor o igual que 0
 if [ $# -le 0 ]; then
