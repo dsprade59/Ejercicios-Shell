@@ -1,4 +1,4 @@
-nano 01-hola-mundo.sh
+nano 01-hola-parametros.sh
 #############################
 #!/binbash
 echo “Hola $@!”
